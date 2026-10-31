@@ -8,7 +8,7 @@
        seth miller · columbus, oh
 ```
 
-I make apps for people who make music.
+Perennial builder, learner, explorer. I make apps for people who make music.
 
 - 🎤 [Rapchat](https://rapchat.com): record music over beats
 - 🏠 [Music House](https://musichouse.app): make songs, beats, cover art and videos
