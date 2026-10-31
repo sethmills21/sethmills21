@@ -1,6 +1,19 @@
-# Seth Miller
+```
+   ♪          ♫              ♪
+  ┌─────────────────────────────┐
+  │  ▁▃▅▇▅▃▁▂▄▆█▆▄▂▁▃▅▇▅▃▁▂▄▆   │
+  │                             │
+  │   ( ◉ )      ▶ ▮▮      ( ◉ )│
+  └─────────────────────────────┘
+        seth miller · columbus, oh
+```
 
-CEO of [Rapchat](https://rapchat.com). Building apps in Columbus, OH.
+I make apps for people who make music.
 
-- [SONIC](https://github.com/sethmills21/SONIC): a vibes-based CLI music player for long work sessions
-- [@sethmills21](https://x.com/sethmills21)
+- 🎤 [Rapchat](https://rapchat.com): record music over beats
+- 🏠 [Music House](https://musichouse.app): make songs, beats, cover art and videos
+- 🧪 Plus a few other things in the oven
+
+Side quest: [SONIC](https://github.com/sethmills21/SONIC), a CLI music player for long work sessions.
+
+[@sethmills21](https://x.com/sethmills21)
